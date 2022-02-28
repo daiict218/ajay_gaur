@@ -1,6 +1,7 @@
 ---
 title: "Geography"
-type: "post"
+type: "page"
 ---
 
-All the geography posts goes here
+What is a lattitude?
+What is a longitude?

@@ -1,6 +1,6 @@
 ---
 title: "Product Management"
-type: "post"
+type: "page"
 ---
 
 All the product management posts goes here
